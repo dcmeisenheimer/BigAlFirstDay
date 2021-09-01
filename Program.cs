@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.Collections.Generic;
+using System;
 
 namespace BigAlFirstDay
 {
@@ -37,7 +38,10 @@ namespace BigAlFirstDay
             {
                 if(userChoice == 1)
                 {
-                    System.Console.WriteLine($"Choice 1 selected \nPress any key to continue");
+                    List<Post> myPosts = PostTracking.GetPosts();
+                    myPosts.Sort(Post.CompareByDate);
+                    PostUtility.PrintAllPost(myPosts);
+                    PostTracking.UpdateFile(myPosts);
                     Console.ReadLine();
                     GetMenuOptions();
                     break;

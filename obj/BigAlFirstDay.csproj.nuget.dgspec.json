@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\FallRepos\\BigAlFirstDay\\BigAlFirstDay.csproj": {}
+    "C:\\Source\\FallRepos\\BigAlFirstDay\\BigAlFirstDay.csproj": {}
   },
   "projects": {
-    "C:\\source\\FallRepos\\BigAlFirstDay\\BigAlFirstDay.csproj": {
+    "C:\\Source\\FallRepos\\BigAlFirstDay\\BigAlFirstDay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\FallRepos\\BigAlFirstDay\\BigAlFirstDay.csproj",
+        "projectUniqueName": "C:\\Source\\FallRepos\\BigAlFirstDay\\BigAlFirstDay.csproj",
         "projectName": "BigAlFirstDay",
-        "projectPath": "C:\\source\\FallRepos\\BigAlFirstDay\\BigAlFirstDay.csproj",
+        "projectPath": "C:\\Source\\FallRepos\\BigAlFirstDay\\BigAlFirstDay.csproj",
         "packagesPath": "C:\\Users\\Skwaf\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\FallRepos\\BigAlFirstDay\\obj\\",
+        "outputPath": "C:\\Source\\FallRepos\\BigAlFirstDay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Skwaf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

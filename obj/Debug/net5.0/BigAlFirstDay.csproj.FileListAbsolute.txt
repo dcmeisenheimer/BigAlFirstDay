@@ -5,7 +5,6 @@ C:\source\FallRepos\BigAlFirstDay\bin\Debug\net5.0\BigAlFirstDay.runtimeconfig.d
 C:\source\FallRepos\BigAlFirstDay\bin\Debug\net5.0\BigAlFirstDay.dll
 C:\source\FallRepos\BigAlFirstDay\bin\Debug\net5.0\ref\BigAlFirstDay.dll
 C:\source\FallRepos\BigAlFirstDay\bin\Debug\net5.0\BigAlFirstDay.pdb
-C:\source\FallRepos\BigAlFirstDay\obj\Debug\net5.0\BigAlFirstDay.csproj.AssemblyReference.cache
 C:\source\FallRepos\BigAlFirstDay\obj\Debug\net5.0\BigAlFirstDay.GeneratedMSBuildEditorConfig.editorconfig
 C:\source\FallRepos\BigAlFirstDay\obj\Debug\net5.0\BigAlFirstDay.AssemblyInfoInputs.cache
 C:\source\FallRepos\BigAlFirstDay\obj\Debug\net5.0\BigAlFirstDay.AssemblyInfo.cs
@@ -14,3 +13,4 @@ C:\source\FallRepos\BigAlFirstDay\obj\Debug\net5.0\BigAlFirstDay.dll
 C:\source\FallRepos\BigAlFirstDay\obj\Debug\net5.0\ref\BigAlFirstDay.dll
 C:\source\FallRepos\BigAlFirstDay\obj\Debug\net5.0\BigAlFirstDay.pdb
 C:\source\FallRepos\BigAlFirstDay\obj\Debug\net5.0\BigAlFirstDay.genruntimeconfig.cache
+C:\Source\FallRepos\BigAlFirstDay\obj\Debug\net5.0\BigAlFirstDay.csprojAssemblyReference.cache
